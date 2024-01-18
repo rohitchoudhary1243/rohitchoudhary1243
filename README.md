@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... linux
 - 📫 How to reach me ... my email- rohitdudi7023@gmail.com
 - 😄 Pronouns: ... rohit
-- ⚡ Fun fact: ... i'm also a farmer
+- ⚡ Fun fact: ...I love farming too
 
 <!---
 rohitchoudhary1243/rohitchoudhary1243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
