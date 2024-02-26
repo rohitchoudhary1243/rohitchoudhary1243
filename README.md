@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... c++ programming
 - 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ... linux
-- 📫 How to reach me ... my email- rohitdudi7023@gmail.com
+- 📫 How to reach me ... my email- rohitdudijat@yahoo.com
 - 😄 Pronouns: ... rohit
 - ⚡ Fun fact: ...I love farming too
 
