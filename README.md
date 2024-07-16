@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitchoudhary1243
-- 👀 I’m interested in ... c++ programming
-- 🌱 I’m currently learning ...c++
+- 👀 I’m interested in ... iOS development
+- 🌱 I’m currently learning ... Swift
 - 💞️ I’m looking to collaborate on ... linux
 - 📫 How to reach me ... my email- rohitdudijat@yahoo.com
 - 😄 Pronouns: ... rohit
